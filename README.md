@@ -1,5 +1,5 @@
 <!-- 
-  SEO: Tanvir Ahmed | Security Researcher | Purple Team Expert | Web App Pentester | Bug Bounty Hunter HackerOne Bugcrowd | SOC Analyst L1 | MITRE ATT&CK | Digital Forensics | CCNA | Dubai UAE | Penetration Tester | VAPT | Ethical Hacker | Python Automation | Splunk | ELK | Wazuh | Open to Relocation Europe Australia Canada
+  SEO: Tanvir Ahmed | Security Researcher | Purple Team Expert | Web App Pentester | Bug Bounty Hunter HackerOne Bugcrowd | SOC Analyst L1 | MITRE ATT&CK | Digital Forensics | CCNA | United States  | Penetration Tester | VAPT | Ethical Hacker | Python Automation | Splunk | ELK | Wazuh | Open to Relocation Europe Australia Canada
 -->
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 > *"I break, analyse, and secure real-world systems."*
 
-**Security Researcher and Purple Team Expert** based in Dubai, UAE, with hands-on expertise across the full attack-defend cycle. I combine offensive web application penetration testing with defensive SOC operations and digital forensics — then close the loop by translating pentest findings into detection logic.
+**Security Researcher and Purple Team Expert** based in United States , with hands-on expertise across the full attack-defend cycle. I combine offensive web application penetration testing with defensive SOC operations and digital forensics — then close the loop by translating pentest findings into detection logic.
 
 **Winner of the Regent Hackathon 2025** · **Microsoft Guinness World Record Participant** · **100+ Critical Vulnerabilities Found in Production** · **15+ Certifications, All Scored 100%**
 
@@ -157,7 +157,7 @@
 
 | Certificate | Issuer | Grade |
 |-------------|--------|:-----:|
-| **HND Cyber Security Level 4** | Regent Middle East, Dubai | **A+** |
+| **Btech in Cyber Security ** | Regent University , United States  | **A+** |
 | **CCNA — Cisco Certified Network Associate** | Cisco Networking Academy | **100%** |
 | **Cisco Ethical Hacking Specialization** | Cisco Networking Academy | **100%** |
 | **Google Cybersecurity Professional Certificate** | Google / Coursera | **100%** |
